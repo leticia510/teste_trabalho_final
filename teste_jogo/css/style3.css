@@ -1,0 +1,17 @@
+/* Estilo geral da página */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('/img/quarto.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.imagem-armario {
+    margin-top: 25px;
+    margin-left: 122px;
+    position: absolute;
+}
+
+.imagem-armario img {
+    width: 290px;
+}
