@@ -1,0 +1,35 @@
+/* Estilo geral da página */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('/img/sala.jpeg') no-repeat center center fixed;
+    background-size: cover;
+}
+.imagem-planta {
+    margin-top: 244px;
+    margin-left: 825px;
+    position: absolute;
+}
+
+.imagem-planta img {
+    width: 153px;
+}
+.imagem-porta-cozinha {
+    margin-top: 36px;
+    margin-left: 1125px;
+   position: absolute;
+}
+
+.imagem-porta-cozinha img {
+    width: 325px;
+}
+.imagem-porta-quarto {
+    margin-top: 165px;
+    margin-left: 1735px;
+   position: absolute;
+}
+
+.imagem-porta-quarto img {
+    width: 183px;
+}
